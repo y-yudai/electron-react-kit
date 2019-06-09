@@ -1,0 +1,7 @@
+{
+  "name": "electron-react-kit",
+  "version": "1.0.0",
+  "description": "Electron React Kit for rapid electron application development",
+  "main": "./js/main/index.js",
+  "license": "GPL-3.0"
+}
