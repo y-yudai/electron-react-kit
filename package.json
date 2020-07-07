@@ -84,7 +84,7 @@
     "webpack-merge": "^4.2.1"
   },
   "dependencies": {
-    "electron": "^5.0.3",
+    "electron": "^7.2.4",
     "electron-log": "^3.0.6",
     "electron-unhandled": "^2.2.0",
     "react": "^16.8.6",
